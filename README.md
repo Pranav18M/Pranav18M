@@ -18,11 +18,11 @@
 
 ```javascript
 const mohanapranav = {
-  role     : "Junior Full-Stack Developer",
+  role     : "Junior Full-Stack Developer,Web Weveloper,Frontend Developer",
   college  : "Excel Engineering College",
   branch   : "ECE (Pre-Final Year)",
   location : "Erode, India 🇮🇳",
-  focus    : ["React", "Node.js", "Full-Stack Apps"],
+  focus    : ["Java Script","React", "Node.js", "Python"],
   openTo   : ["Internships", "Entry-Level Roles"],
   motto    : "Build. Break. Learn. Repeat. 🔁"
 };
