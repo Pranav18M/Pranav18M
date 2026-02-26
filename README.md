@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A78BFA,100:F472B6&height=220&section=header&text=Mohanapranav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Junior%20Full-Stack%20Developer%20%7C%20Python%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A78BFA,100:F472B6&height=220&section=header&text=Mohanapranav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Python%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mohanapranav+%F0%9F%91%8B;Junior+Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mohanapranav+%F0%9F%91%8B;Junior+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```javascript
 const mohanapranav = {
-  role     : "Junior Full-Stack Developer,Web Weveloper,Frontend Developer",
+  role     : "Web Weveloper,Frontend Developer,Backend Developer",
   college  : "Excel Engineering College",
   branch   : "ECE (Pre-Final Year)",
   location : "Erode, India 🇮🇳",
@@ -28,7 +28,7 @@ const mohanapranav = {
 };
 ```
 
-- 🔨 Building full-stack projects that solve real problems
+- 🔨 Building Web Application projects that solve real problems
 - 🌱 Growing in TypeScript, system design & cloud
 - 💡 I enjoy writing clean, readable, and scalable code
 - 📩 Always open to collaborating and learning together
