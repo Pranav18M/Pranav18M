@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A78BFA,100:F472B6&height=220&section=header&text=Mohanapranav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%20Web%20Developer%20%7C%20Python%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A78BFA,100:F472B6&height=220&section=header&text=Mohanapranav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%20Web%20Developer%20%7C%20Java%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn)
 
 </div>
 
@@ -22,7 +22,7 @@ const mohanapranav = {
   college  : "Excel Engineering College",
   branch   : "ECE (Pre-Final Year)",
   location : "Erode, India 🇮🇳",
-  focus    : ["Java Script","React", "Node.js", "Python(Basic)"],
+  focus    : ["Java Script","React", "Node.js", Python(Basic),"Java(Basic)"],
   openTo   : ["Internships", "Entry-Level Roles"],
   motto    : "Build. Break. Learn. Repeat. 🔁"
 };
