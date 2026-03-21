@@ -22,7 +22,7 @@ const mohanapranav = {
   college  : "Excel Engineering College",
   branch   : "ECE (Pre-Final Year)",
   location : "Erode, India 🇮🇳",
-  focus    : ["Java Script","React", "Node.js", Python(Basic),"Java(Basic)"],
+  focus    : ["Java Script","React", "Node.js", "Python(Basic)","Java(Basic)"],
   openTo   : ["Internships", "Entry-Level Roles"],
   motto    : "Build. Break. Learn. Repeat. 🔁"
 };
