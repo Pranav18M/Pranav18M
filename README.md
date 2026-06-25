@@ -146,7 +146,7 @@ const mohanapranav = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pranav18M&color=a78bfa&style=for-the-badge&label=Profile+Views)
 
-### 💬 *"First, solve the problem. Then, write the code."*
+### 💬 "Focused on creating impactful products with thoughtful engineering."
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:A78BFA,100:6EE7F7&height=120&section=footer)
 
