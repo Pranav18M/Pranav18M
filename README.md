@@ -18,12 +18,12 @@
 
 ```javascript
 const mohanapranav = {
-  role     : "Web Weveloper,Frontend Developer,Backend Developer",
+  role     : "MERN Stack Developer , Web Developer",
   college  : "Excel Engineering College",
-  branch   : "ECE (Pre-Final Year)",
+  branch   : "ECE (Final Year)",
   location : "Erode, India 🇮🇳",
-  focus    : ["Java Script","React", "Node.js", "Python(Basic)","Java(Basic)"],
-  openTo   : ["Internships", "Entry-Level Roles"],
+  focus    : ["React","Java Script","TypeScript", "Node.js","Java", "Python"],
+  openTo   : ["Internships", "Full Time"],
   motto    : "Build. Break. Learn. Repeat. 🔁"
 };
 ```
@@ -40,13 +40,18 @@ const mohanapranav = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-
+### 🌐 Language 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  
 ### ⚡ Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🔧 Backend & Database
@@ -54,8 +59,9 @@ const mohanapranav = {
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -74,6 +80,7 @@ const mohanapranav = {
 
 | 🏆 Project | 📌 Description | 🔧 Stack |
 |---|---|---|
+| [**RoutineOS**](https://github.com/Pranav18M/Routine-) | AI-Powered Habit & Routine Builder — Help to user stay in  consistant and give 3-day recovery plans | `Next.js` `Node.js` `Express` `Supabase` `Firebase FCM` |
 | [**ThinkByte**](https://github.com/Pranav18M/ThinkByte) | Full-stack coding platform — solve problems, run code live & track submissions with accuracy scoring | `React` `Node.js` `Express` `MongoDB` |
 | [**ATS Resume Scanner**](https://github.com/Pranav18M/ATS-Resume-Scanner-Upgrade-version) | AI-powered resume parser that ranks candidates using real ATS job-matching logic from PDF/DOCX files | `React` `Python` `NLP` `PDF Parsing` |
 | [**ShopEasy**](https://github.com/Pranav18M/E-commerse-website) | Responsive e-commerce app with product listings, cart system and smooth UX | `React` `Tailwind CSS` `JavaScript` |
