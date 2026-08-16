@@ -97,11 +97,20 @@ const mohanapranav = {
 
 ## 🏅 Certifications
 
-<div align="center">
+<!-- <div align="center">
 
 ![AWS](https://img.shields.io/badge/☁️%20AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IBM](https://img.shields.io/badge/🐍%20IBM%20Python%20101%20for%20Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![LnT](https://img.shields.io/badge/🛠️%20L%26T%20Cloud%20%26%20Full--Stack%20Mastery-1C3F6E?style=for-the-badge&logoColor=white)
+
+</div> -->
+<div align="center">
+
+[![AWS](https://img.shields.io/badge/☁️%20AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://drive.google.com/file/d/16n7JZi2MgttMKyx38Rs3tZRHOEjO0CbH/view?usp=drive_link)
+
+[![IBM](https://img.shields.io/badge/🐍%20IBM%20Python%20101%20for%20Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://drive.google.com/file/d/1_P_1hVkuxJVNxU9FpsOpuBulUSLSuMyG/view?usp=drive_link)
+
+[![LnT](https://img.shields.io/badge/🛠️%20L%26T%20Cloud%20%26%20Full--Stack%20Mastery-1C3F6E?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1q3YHgIIcp9FvK_JdNeUS-5RkI5nZzLrg/view?usp=drive_link)
 
 </div>
 
