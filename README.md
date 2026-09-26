@@ -35,6 +35,7 @@ const mohanapranav = {
 - 🌱 Growing in TypeScript, system design & cloud
 - 💡 I enjoy writing clean, readable, and scalable code
 - 📩 Always open to collaborating and learning together
+- open source contributer : https://github.com/vercel/next.js/pull/95235
 
 <br clear="right"/>
 
